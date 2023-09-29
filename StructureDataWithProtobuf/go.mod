@@ -2,4 +2,4 @@ module github.com/murasame29/distributed_services_with_go_memo/tree/main/Structu
 
 go 1.20
 
-require google.golang.org/protobuf v1.31.0 // indirect
+require google.golang.org/protobuf v1.31.0
