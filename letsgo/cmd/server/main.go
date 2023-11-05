@@ -1,8 +1,9 @@
 package main
 
 import (
-	"1/internal/server"
 	"log"
+
+	"github.com/murasame29/distributed_services_with_go_memo/letsgo/internal/server"
 )
 
 func main() {
